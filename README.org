@@ -16,7 +16,7 @@
 It's an application p2p for pair programming which will work on Linux and Macos, made with Zig.
 
 ** Linux (Wayland)
-+ gtk
++ gtk/clay
 + xdg-desktop-portal
   
 ** Macos
