@@ -1,2 +1,0 @@
-# ZScreen
-Pair Programming Application
